@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">吃点啥</string>
+    <string name="random">随机</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="prompt">提示</string>
+    <string name="ok">确定</string>
+    <string name="loading">加载中</string>
+    <string name="save_fail">保存失败</string>
+    <string name="delete_fail">删除失败</string>
+    <string name="add_success">添加成功</string>
+    <string name="delete_success">删除成功</string>
+</resources>
